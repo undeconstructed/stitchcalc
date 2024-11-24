@@ -1,0 +1,21 @@
+k7, yfwd, skpo, k6
+k5, k2tog, yfwd, k1, yfwd, skpo, k5
+k4, k2tog, yfwd, K1, Mk, k1, yfwd, skpo, k4
+k6, yfwd, sl 1, k2tog, psso, yfwd, k6
+k7, yfwd, skpo, k6
+k5, k2tog, yfwd, k1, yfwd, skpo, k5
+k4, k2tog, yfwd, k3, yfwd, skpo, k4
+k3, k2tog, yfwd, K5, yfwd, skpo, k3
+k2, k2tog, yfwd, K7, yfwd, skpo, k2
+k1, k2tog, yfwd, k1, yfwd, skpo, k3, k2tog, yfwd, K1, yfwd, skpo, k1
+k2tog, yfwd, k1, Mk, k1, yfwd, skpo, k1, k2tog, yfwd, k1, Mk, k1, yfwd, skpo
+k2, yfwd, sl 1, k2tog, psso, yfwd, k5, yfwd, k3tog, yfwd, k2
+k3, yfwd, skpo, k5, k2tog, yfwd, k3
+k4, yfwd, skpo, k3, k2tog, yfwd, k4
+k5, yfwd, skpo, k1, k2tog, yfwd, k5
+k6, yfwd, sl 1, k2tog, psso, yfwd, k6
+k7, yfwd, skpo, k6
+k5, k2tog, yfwd, k1, yfwd, skpo, k5
+k4, k2tog, yfwd, k1, Mk, k1, yfwd, skpo, k4
+k6, yfwd, sl 1, k2tog, psso, yfwd, k6
+k7, yfwd, skpo, k6
